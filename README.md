@@ -1,6 +1,7 @@
 # Evaluating delivery models for mass dog vaccination: A cost-effectiveness analysis of community-led and team-led vaccination strategies for rabies control in resource-limited settings
 
 Authors: Joel Jackson Changalucha, Danni Anderson, Jonathan Yoder, Benjamin Stone, Ahmed Lugelo, Sharadhuli Iddi Kimera, Athuman M Lupindu, Katie Hampson and Felix Lankester 
+[![DOI](https://zenodo.org/badge/1135096208.svg)](https://doi.org/10.5281/zenodo.18265596)
 
 # About
 This repository contains the analytical workflow for the cost-effectiveness evaluation of community-led versus team-led mass dog vaccination (MDV) strategies in Tanzania. Rabies causes approximately 60,000 human deaths annually in low- and middle-income countries, where domestic dogs remain the primary vector. Mass dog vaccination is the most cost-effective intervention for rabies elimination, yet identifying economically feasible delivery strategies remains challenging in resource-limited settings.
