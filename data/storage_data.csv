@@ -1,0 +1,10 @@
+district,AllDoseAtStart,ContiDose,space_at_start,space_after_pulsed,pulsed_space,continuous_space
+Serengeti,7000,3000,half,quarter,0.23,0.17
+Musoma Mc,3500,1000,half,quarter,0.29,0.11
+Bunda TC,3000,1000,half,quarter,0.27,0.13
+Bunda DC,2400,1000,half,quarter,0.27,0.13
+Tarime DC,12000,3000,full,quarter,0.6,0.2
+Tarime TC,4000,1000,,,0.3,0.1
+Butiama,8000,4000,two third,quarter,0.3,0.3
+Musoma DC,8000,4000,full,quarter,0.4,0.4
+Rorya,4500,2000,two third,quarter,0.33,0.27

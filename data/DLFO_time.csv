@@ -1,0 +1,19 @@
+district,strategy,mode,weeksPerYr,hoursPerWeek
+serengeti,pulsed,assigned,4,12
+serengeti,continuous,assigned,8,12
+Rorya,pulsed,standard,12,24
+Rorya,continuous,standard,24,32
+musoma mc,pulsed,standard,3,20
+musoma mc,continuous,standard,52,2
+bunda tc,pulsed,standard,4,32
+bunda tc,continuous,standard,52,4
+tarime dc,pulsed,standard,2,48
+tarime dc,continuous,standard,48,8
+tarime tc,pulsed,standard,6,40
+tarime tc,continuous,standard,52,2
+bunda dc,pulsed,assigned,,
+bunda dc,continuous,assigned,,
+musoma dc,pulsed,standard,6,12
+musoma dc,continuous,standard,52,1
+butiama,pulsed,standard,12,21
+butiama,continuous,standard,26,1

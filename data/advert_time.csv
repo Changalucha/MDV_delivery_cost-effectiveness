@@ -1,0 +1,46 @@
+District,Ward,Village,Sub-village,transport,hours
+Musoma District Council,Bugoji,Bugoji,4,Bicycle,1
+Musoma District Council,Bulinga,Bulinga,5,motorcycle,1.5
+Musoma District Council,Etaro,Etaro,6,Bicycle,2
+Musoma District Council,Ifulifu,Kiemba,7,motorcycle,2
+Musoma District Council,Makojo,Chitare,6,motorcycle,2
+Musoma District Council,Mugango,Nyang’oma,4,motorcycle,2
+Musoma District Council,Nyegina,Kurukerege,4,motorcycle,2
+Musoma District Council,Rusoli,Buanga,9,walking,2
+Musoma Municipal Council,Buhare,Buhare kati,3,car,0.2
+Musoma Municipal Council,Bweri,Bweri,5,car,0.3
+Musoma Municipal Council,Kigera,Bonde Kati A,4,car,0.3
+Musoma Municipal Council,Kitaji,Kitaji B,4,car,0.1
+Musoma Municipal Council,Mshikamano,Saanane,4,car,0.3
+Musoma Municipal Council,Mwisenge,Mtakuja A,8,car,0.3
+Musoma Municipal Council,Rwamlimi,Songambele,4,car,0.4
+Bunda District Council,Chitengure,Chitengure,5,motorcycle,1.5
+Bunda District Council,Kibara,Kibara A,4,walking,2
+Bunda District Council,Kisorya,Kisorya,4,motorcycle,1.5
+Bunda District Council,Namhula,Namhula,4,motorcycle,2
+Bunda District Council,Nampindi,Bwanza,4,Bicycle,1.5
+Bunda District Council,Nansimo,Nambaza,5,motorcycle,2.5
+Butiama,Buruma,Songora,5,motorcycle,2.5
+Butiama,Busegwe,Busegwe,3,motorcycle,1.5
+Butiama,Butiama,Butiama,3,walking,2
+Butiama,Kamugegi,Kamugegi,3,motorcycle,1.5
+Butiama,Kukirango,Kiabakari,4,motorcycle,2.5
+Butiama,Muriaza,Bumangi,3,motorcycle,1.5
+Butiama,Nyankanga,Nyankanga,2,walking,0.5
+Rorya,Baraki,Bitiryo,3,walking,3
+Rorya,Bukwe,Nyasoro,3,motorcycle,3
+Rorya,Bukwe,Mika,4,Bicycle,4
+Rorya,Kinyenche,Nyabikondo,4,motorcycle,3
+Rorya,Kirogo,Burere,5,motorcycle,4
+Rorya,Mirare,Ryagoro,4,motorcycle,2
+Rorya,Nyaburongo,Chereche,4,Bicycle,3
+Rorya,Raranya,Raranya,1,walking,1
+Rorya,Roche,Roche,3,motorcycle,1.5
+Serengeti,Busawe,Gantamome,3,Bicycle,2
+Serengeti,Geitasamo,Nyamoko,3,walking,2
+Serengeti,Geitasamo,Nyamerama,5,motorcycle,2.5
+Serengeti,Kisaka,Buchanchari,5,motorcycle,2.5
+Serengeti,Kisaka,Nyiboko,3,motorcycle,1.5
+Serengeti,Magange,Magange,3,Bicycle,2
+Serengeti,Majimoto,Iseresere,3,motorcycle,1.5
+Serengeti,Nyambureti,Kerukerege,5,motorcycle,2
